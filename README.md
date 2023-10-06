@@ -1,4 +1,4 @@
-# Welcome to OoscarFrank's Github 👋
+![image](https://github.com/OoscarFrank/OoscarFRANK/assets/91872908/ec48457c-6c52-4b74-a57e-20c09efc477e)# Welcome to OoscarFrank's Github 👋
 _Epitech student in Mulhouse_
 
 - 🔭 I'm currently working for my organization [oscar-dev.fr](https://oscar-dev.fr)
@@ -7,7 +7,7 @@ _Epitech student in Mulhouse_
 
 - 👨‍💻 All of my projects are available [here](https://github.com/OoscarFrank?tab=repositories)
 
-- 📫 Contact me ; **oscar.frank@epitech.eu** / Discord: **@ooscaro**
+- 📫 Contact me, Mail: **oscar.frank@epitech.eu** | Discord: **@ooscaro** | LinkedIn: **https://www.linkedin.com/in/oscar-frank/**
 
 ## Connect with me:
 <p align="left">
