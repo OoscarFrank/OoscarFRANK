@@ -1,13 +1,13 @@
 # Welcome to OoscarFrank's Github 👋
 # Epitech student in Mulhouse
 
-- 🔭 I'm currently working on [EpitechMouliBot](https://github.com/EpitechMouliBot)
+- 🔭 I'm currently working for my organization [oscar-dev.fr](https://oscar-dev.fr
 
-- 🌱 I'm currently learning **Programming at Epitech Mulhouse**
+- 🌱 I'm learning ```Programming at Epitech Mulhouse```
 
-- 👨‍💻 All of my projects are available [here](https://github.com/Mazettt?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/OoscarFrank?tab=repositories)
 
-- 📫 How to reach me: **martin.d-herouville@epitech.eu** / Discord: **@Mazettt#8842**
+- 📫 To reach me ; **oscar.frank@epitech.eu** / Discord: **@ooscaro**
 
 ## Connect with me:
 <p align="left">
