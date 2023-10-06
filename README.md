@@ -12,11 +12,6 @@ _Epitech student in Mulhouse_
   - LinkedIn: [my profile](https://www.linkedin.com/in/oscar-frank/)
   - Discord: **@ooscaro**
 
-## Contact me:
-<p align="left">
-  <a href="https://linkedin.com/in/oscar-frank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-dherouville" height="30" width="40" /></a>
-</p>
-
 ## Languages and Tools:
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
