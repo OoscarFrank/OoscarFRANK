@@ -1,5 +1,5 @@
 # Welcome to OoscarFrank's Github 👋
-# Epitech student in Mulhouse
+```Epitech student in Mulhouse```
 
 - 🔭 I'm currently working for my organization [oscar-dev.fr](https://oscar-dev.fr)
 
