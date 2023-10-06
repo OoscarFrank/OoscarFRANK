@@ -7,7 +7,7 @@ _Epitech student in Mulhouse_
 
 - 👨‍💻 All of my projects are available [here](https://github.com/OoscarFrank?tab=repositories)
 
-- 📫 To reach me ; **oscar.frank@epitech.eu** / Discord: **@ooscaro**
+- 📫 Contact me ; **oscar.frank@epitech.eu** / Discord: **@ooscaro**
 
 ## Connect with me:
 <p align="left">
