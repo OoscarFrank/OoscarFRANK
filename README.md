@@ -8,9 +8,9 @@ _Epitech student in Mulhouse_
 - 👨‍💻 All of my projects are available [here](https://github.com/OoscarFrank?tab=repositories)
 
 - 📫 Contact me ;
-  - Mail: ```**oscar.frank@epitech.eu**```
-  - LinkedIn: ```[my profile](https://www.linkedin.com/in/oscar-frank/)```
-  - Discord: ```**@ooscaro**```
+  - Mail: **oscar.frank@epitech.eu**
+  - LinkedIn: **[my profile]**(https://www.linkedin.com/in/oscar-frank/)
+  - Discord: **@ooscaro**
 
 
 ## Languages and Tools:
