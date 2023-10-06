@@ -9,7 +9,7 @@ _Epitech student in Mulhouse_
 
 - 📫 Contact me,
   - : **oscar.frank@epitech.eu** | Discord: **@ooscaro** | LinkedIn: **https://www.linkedin.com/in/oscar-frank/**
-  - <a href="https://linkedin.com/in/oscar-frank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-dherouville" height="20" width="20" /></a>
+  - <a href="https://linkedin.com/in/oscar-frank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-dherouville" height="10" width="10" /></a>
 
 ## Contact me:
 <p align="left">
