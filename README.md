@@ -1,5 +1,5 @@
 # Welcome to OoscarFrank's Github 👋
-<h3 align="center">Epitech student at Mulhouse</h3>
+#Epitech student in Mulhouse
 
 - 🔭 I'm currently working on [EpitechMouliBot](https://github.com/EpitechMouliBot)
 
