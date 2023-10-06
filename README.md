@@ -33,6 +33,6 @@ _Epitech student in Mulhouse_
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/GNOME/gimp/master/desktop/scalable/gimp.svg" alt="gimp" width="40" height="40"/> </a>
+  <img src="https://raw.githubusercontent.com/GNOME/gimp/master/desktop/scalable/gimp.svg" alt="gimp" width="40" height="40"/>
 </p>
 
