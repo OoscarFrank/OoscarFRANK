@@ -1,5 +1,4 @@
 # Welcome to OoscarFrank's Github 👋
-<h1 align="center">Hi! I'm Mazettt</h1>
 <h3 align="center">Epitech student at Mulhouse</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="position:relative" src="https://github-profile-trophy.vercel.app/?username=mazettt" alt="mazettt" /></a> </p>
