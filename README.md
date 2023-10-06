@@ -6,12 +6,12 @@ _Epitech student in Mulhouse_
 - 🌱 I'm learning ```Programming at Epitech Mulhouse```
 
 - 👨‍💻 All of my projects are available [here](https://github.com/OoscarFrank?tab=repositories)
-```
+
 - 📫 Contact me ;
-  - Mail: **oscar.frank@epitech.eu**
-  - LinkedIn: [my profile](https://www.linkedin.com/in/oscar-frank/)
-  - Discord: **@ooscaro**
-```
+  - Mail: ```**oscar.frank@epitech.eu**```
+  - LinkedIn: ```[my profile](https://www.linkedin.com/in/oscar-frank/)```
+  - Discord: ```**@ooscaro**```
+
 
 ## Languages and Tools:
 <p align="left">
