@@ -9,7 +9,7 @@ _Epitech student in Mulhouse_
 
 - 📫 Contact me,
   - : **oscar.frank@epitech.eu** | Discord: **@ooscaro** | LinkedIn: **https://www.linkedin.com/in/oscar-frank/**
-  - <a href="https://linkedin.com/in/oscar-frank" target="blank"><img src="https://imgs.search.brave.com/elfO1UqY7epsg5alNl3dmNCiMLyMbdk4L9Ij172j6k0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/LW1hcnF1ZS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjAv/MTIvRGlzY29yZC1M/b2dvLTY1MHgzNjYu/cG5n" alt="oscar-frank" height="20" width="35" /></a>
+  - <img src="https://imgs.search.brave.com/elfO1UqY7epsg5alNl3dmNCiMLyMbdk4L9Ij172j6k0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/LW1hcnF1ZS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjAv/MTIvRGlzY29yZC1M/b2dvLTY1MHgzNjYu/cG5n" alt="oscar-frank" height="20" width="35" />
 
   - <a href="https://linkedin.com/in/oscar-frank" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscar frank" height="20" width="20" /></a> **https://www.linkedin.com/in/oscar-frank/**
 
