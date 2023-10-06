@@ -7,7 +7,9 @@ _Epitech student in Mulhouse_
 
 - 👨‍💻 All of my projects are available [here](https://github.com/OoscarFrank?tab=repositories)
 
-- 📫 Contact me, Mail: **oscar.frank@epitech.eu** | Discord: **@ooscaro** | LinkedIn: **https://www.linkedin.com/in/oscar-frank/**
+- 📫 Contact me,
+  - : **oscar.frank@epitech.eu** | Discord: **@ooscaro** | LinkedIn: **https://www.linkedin.com/in/oscar-frank/**
+  - <a href="https://linkedin.com/in/oscar-frank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-dherouville" height="20" width="20" /></a>
 
 ## Contact me:
 <p align="left">
