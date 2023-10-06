@@ -1,4 +1,4 @@
-![image](https://github.com/OoscarFrank/OoscarFRANK/assets/91872908/ec48457c-6c52-4b74-a57e-20c09efc477e)# Welcome to OoscarFrank's Github 👋
+# Welcome to OoscarFrank's Github 👋
 _Epitech student in Mulhouse_
 
 - 🔭 I'm currently working for my organization [oscar-dev.fr](https://oscar-dev.fr)
