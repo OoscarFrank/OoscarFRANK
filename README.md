@@ -9,7 +9,7 @@ _Epitech student in Mulhouse_
 
 - 📫 Contact me ;
   - Mail: **oscar.frank@epitech.eu**
-  - LinkedIn: **[my profile]**(https://www.linkedin.com/in/oscar-frank/)
+  - LinkedIn: [my profile](https://www.linkedin.com/in/oscar-frank/)
   - Discord: **@ooscaro**
 
 
