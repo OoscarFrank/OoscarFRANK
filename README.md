@@ -37,7 +37,3 @@
   <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/GNOME/gimp/master/desktop/scalable/gimp.svg" alt="gimp" width="40" height="40"/> </a>
 </p>
 
-## My stats
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazettt&show_icons=true&title_color=0000ff&bg_color=ffffff&locale=en&layout=compact" alt="mazettt" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mazettt&show_icons=true&title_color=0000ff&text_color=000000&bg_color=ffffff&locale=en" alt="mazettt" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mazettt&theme=default" alt="mazettt" /></p>
