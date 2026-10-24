@@ -1,6 +1,6 @@
 # Hi, I'm Oscar 👋
 
-**IoT & Embedded Systems Engineer** · Mulhouse, France 🇫🇷
+**IoT & Embedded Systems Engineer** · Mulhouse, France 🇫🇷 · Basel area, Switzerland 🇨🇭
 
 I work on embedded Linux, fleet management and IoT data pipelines at **Actemium Switzerland**, from R&D to production, for devices deployed in pharma and other industrial environments across Switzerland. Before moving to embedded, I spent four years doing full-stack web development: as a freelancer, as co-founder of a project, and through several internships at startups and SMEs.
 
